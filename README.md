@@ -9,3 +9,4 @@ How to wallet work, recover, create, ...
 
 ## did you now how wallet generating?
 visual wallet generate [here](https://7zu1.short.gy/visual-wallet) 
+or: [here](https://uclck.ru/gsSjB) 
