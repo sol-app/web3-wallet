@@ -8,7 +8,5 @@ How to wallet work, recover, create, ...
 ---
 
 ## did you now how wallet generating?
-visual wallet generate [here](https://7zu1.short.gy/visual-wallet) 
-or: [here](https://uclck.ru/gsSjB) 
 
-or: downlod [this](https://github.com/sol-app/web3-wallet/blob/main/schem/eth.build.webloc) and go to [eth build](https://sandbox.eth.build/) then load that file.
+or: downlod [this](https://github.com/sol-app/web3-wallet/blob/main/schem/eth.build%20(1).webloc) and go to [eth build](https://sandbox.eth.build/) then load that file.
