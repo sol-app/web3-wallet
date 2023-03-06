@@ -9,4 +9,7 @@ How to wallet work, recover, create, ...
 
 ## did you now how wallet generating?
 
-downlod [this](https://github.com/sol-app/web3-wallet/blob/main/schem/eth.build%20(1).webloc) and go to [eth build](https://sandbox.eth.build/) then load that file.
+- generate wallet:
+- - downlod [this](https://github.com/sol-app/web3-wallet/blob/main/schem/wallet-generate.webloc) and go to [eth build](https://sandbox.eth.build/) then load that file.
+- signature:
+- - downlod [this](https://github.com/sol-app/web3-wallet/blob/main/schem/wallet-generate-and-signature.webloc) and go to [eth build](https://sandbox.eth.build/) then load that file.
