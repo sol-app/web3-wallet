@@ -3,3 +3,6 @@ For example, the default BTC address, derived for the wallet with the mnemonic s
 
 info: [bip32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)\
 ![bip32- hierarchical deterministic wallet](https://github.com/bitcoin/bips/raw/master/bip-0032/derivation.png)
+
+![bip32- hierarchical deterministic wallet](https://github.com/sol-app/web3-wallet/blob/main/generate-hdwallet/hierarchical-deterministic-wallets.gif) 
+[gif file & credit & more information](https://learnmeabitcoin.com/technical/hd-wallets) 
