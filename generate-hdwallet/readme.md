@@ -1,4 +1,5 @@
-For example, the default BTC address, derived for the wallet with the mnemonic shown above, with the default BTC derivation path (m/84'/0'/0'/0/0) is: **bc1qpsp72plnsqe6e2dvtsetxtww2cz36ztmfxghpd**.\n
+For example, the default BTC address, derived for the wallet with the mnemonic shown above, 
+with the default BTC derivation path (m/84'/0'/0'/0/0) is: **bc1qpsp72plnsqe6e2dvtsetxtww2cz36ztmfxghpd**. 
 For Ethereum, this is **0xA3Dcd899C0f3832DFDFed9479a9d828c6A4EB2A7**
 
 
